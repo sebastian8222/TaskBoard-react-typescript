@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TaskBoard-react-typescript/static/css/main.2f75d9f6.css",
+    "main.js": "/TaskBoard-react-typescript/static/js/main.4bea0158.js",
+    "static/js/787.6bde3dcb.chunk.js": "/TaskBoard-react-typescript/static/js/787.6bde3dcb.chunk.js",
+    "index.html": "/TaskBoard-react-typescript/index.html",
+    "main.2f75d9f6.css.map": "/TaskBoard-react-typescript/static/css/main.2f75d9f6.css.map",
+    "main.4bea0158.js.map": "/TaskBoard-react-typescript/static/js/main.4bea0158.js.map",
+    "787.6bde3dcb.chunk.js.map": "/TaskBoard-react-typescript/static/js/787.6bde3dcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f75d9f6.css",
+    "static/js/main.4bea0158.js"
+  ]
+}
